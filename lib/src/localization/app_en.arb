@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_3d_button",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
